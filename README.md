@@ -1,7 +1,7 @@
 ### Prazer, meu nome é Gulherme Jesus!
 
 - 📚Atualmente estou fazendo faculdade de Ciência da Computação
-- 🌱Possuo um certificado de conclusão em Aruitetura e Organização de Computadores
+- 🌱Possuo um certificado de conclusão em Arquitetura e Organização de Computadores
 - ⌚Tenho o objetivo futuro de começar a trabalhar como Dev Full-Stack
 - 📝Anota meu Instagram: @guih.jezus
 ##
